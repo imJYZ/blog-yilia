@@ -4,8 +4,8 @@ menu:
   主页: /
   归档: /archives/index.html
   随笔: /tags/essays
-  算法题: /categories/算法
-  java成长路线: /base
+  算法题: /categories/acm
+  java成长路线: /java
 
 # SubNav
 subnav:
